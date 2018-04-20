@@ -1,5 +1,6 @@
 # hello-world
-This is my first repository
+_This is my first repository_
 Hi Kieran here,
 
-I am currently a student studying Website Development Diploma in Ultimo TAFE
+I am currently a student studying **_Website Development Diploma_** in Ultimo TAFE
+
