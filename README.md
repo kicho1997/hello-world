@@ -6,3 +6,5 @@ I am currently a student studying **Website Development Diploma** in Ultimo TAFE
 
 [my github page]: https://github.com/kicho1997
 [my website]:https://kierancho.wordpress.com
+
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
