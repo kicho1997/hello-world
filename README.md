@@ -16,4 +16,4 @@ It is our job as web developers to solve the puzzle.
 I worked in a few projects, the most memorable project is when i worked ina team to develop Manly Volunteer Penguin Warden website. It was a challenge, doing the documentation and the coding of the website. Overall it was a fun experience. Do you have a puzzle that needs to be solved?
 
 My hobbies are
-*Table tennis
+* Table tennis
